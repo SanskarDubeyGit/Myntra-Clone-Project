@@ -41,7 +41,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/myntra-clone.git
+git clone https://github.com/sanskardubeygit/myntra-clone.git
 Navigate into the project directory:
 
 bash
