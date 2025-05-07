@@ -2,7 +2,9 @@
 A front-end clone of the Myntra homepage built using HTML and CSS. This project replicates the visual layout and styling of one of India's leading fashion e-commerce websites.
 
 📸 Preview
-📷 Add a screenshot or screen recording of your project here
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/32b88125-6f85-4e64-af5a-fdb104564466" />
+
+
 
 🚀 Features
 Responsive navigation bar with categories
