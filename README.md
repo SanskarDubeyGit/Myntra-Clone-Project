@@ -4,6 +4,10 @@ A front-end clone of the Myntra homepage built using HTML and CSS. This project 
 📸 Preview
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/32b88125-6f85-4e64-af5a-fdb104564466" />
 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/17d3a3dd-7530-4e32-9b30-e84be00fa355" />
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/9b792e02-3413-475f-8572-18b816cac1be" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/0e1a12c6-cb25-4c99-aa8c-b03b405ddde5" />
+
 
 
 🚀 Features
